@@ -4,7 +4,7 @@ let number = prompt(
 if (number) {
   alert("The sum is " + cycle(number) + ".");
 } else {
-  alert("You didn`t not enter number N");
+  alert("You didn`t enter number N");
 }
 function cycle(number) {
   let x = 0;
